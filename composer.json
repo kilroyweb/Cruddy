@@ -2,7 +2,7 @@
     "name": "kilroyweb/cruddy",
     "description": "Laravel CRUD Helper",
     "keywords": [
-        "crud",
+        "crud"
     ],
     "license": "MIT",
     "type": "library",
