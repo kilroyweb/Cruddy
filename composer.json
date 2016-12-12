@@ -1,0 +1,21 @@
+{
+    "name": "kilroyweb/cruddy",
+    "description": "Laravel CRUD Helper",
+    "keywords": [
+        "crud",
+    ],
+    "license": "MIT",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Kilroy Web Development",
+            "email": "jeff@kilroyweb.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4": {
+            "KilroyWeb\\Cruddy\\": "src"
+        }
+    }
+}
